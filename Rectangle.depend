@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609566434 source:c:\users\admin\downloads\rectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
